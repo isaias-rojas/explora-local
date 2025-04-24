@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ExploraLocal</string>
+    <string name="map">Mapa</string>
+    <string name="photo_preview">Vista previa de foto</string>
+    <string name="places">Lugares</string>
+    <string name="my_location">Mi ubicación</string>
+    <string name="show_nearby_places">Mostrar lugares cercanos</string>
+    <string name="location_permission_denied">Permiso de ubicación denegado</string>
+    <string name="location_permission_required">Se requiere permiso de ubicación para esta funcionalidad</string>
+    <string name="grant">Conceder</string>
+    <string name="add_place">Agregar lugar</string>
+    <string name="empty_places_message">No hay lugares guardados</string>
+    <string name="show_on_map">Ver en mapa</string>
+    <string name="place_image">Imagen del lugar</string>
+    <string name="place_name">Nombre del lugar</string>
+    <string name="place_description">Descripción</string>
+    <string name="place_rating">Calificación</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="take_photo">Tomar foto</string>
+    <string name="share">Compartir</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+    <string name="sort_by_name">Ordenar por nombre</string>
+    <string name="sort_by_rating">Ordenar por calificación</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
